@@ -28,3 +28,5 @@ Where the . represent 0's and the numbers the numbers
 
 ## Action
 ![](sudoku.gif)
+
+
