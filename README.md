@@ -26,7 +26,7 @@ The input this program takes is a sudoku in the following format:
 
 Where the . represent 0's and the numbers the numbers
 
-## Action
+## Program
 ![](sudoku.gif)
 
 
